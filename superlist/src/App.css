@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #0099f7;
+  height: 200px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.tableHeader {
+  text-align: center;
+}
+
+.tableBody {
+  text-align: center;
+}
+
+.tableCell {
+  font-style: italic;
+}
+
+.nicoCheval{
+  width: 70%;
+  height: 70%;
+  position: relative;
+  justify-content: center;
+}
